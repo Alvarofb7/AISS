@@ -50,6 +50,7 @@ body{
     padding: 0px;
     text-decoration: none;
     color: black;
+    font-family: sans-serif;
 }
 .cnt_detail{
     float: right;
@@ -86,7 +87,7 @@ body{
     float: left;
     width: 100%;
 }
-.webdesigntuts-workshop {
+.search_bar {
     margin-top: 20px;
     background: #f4f4f4;
 	height: 100%;
