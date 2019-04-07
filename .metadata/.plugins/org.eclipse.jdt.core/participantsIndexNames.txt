@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\alvar\OneDrive - UNIVERSIDAD DE SEVILLA\Documentos\GitHub\AISS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3053082043.index
+\lab6-mashup\src\main\java
+C:\Users\alvar\OneDrive - UNIVERSIDAD DE SEVILLA\Documentos\GitHub\AISS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\732366297.index
+\lab6-mashup\src\main\java
